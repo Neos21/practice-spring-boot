@@ -22,6 +22,8 @@ $ code -version
 x64
 ```
 
+- VSCode 拡張機能「Java Extension Pack (v0.7.1)」と「Spring Boot Extension Pack (v0.0.8)」をインストールする。
+    - バージョンは作成時にインストール・使用したモノ。
 - VSCode 拡張機能「Spring Boot Extension Pack」の機能を使い、ボイラープレートを作成。
     - 参考 : [Qiita - VSCode で Spring Boot のプロジェクト作成からアプリケーションの実行まで](https://qiita.com/syamshig/items/ff829561238440437b99)
 - VSCode の「デバッグ」ペイン → 「Debug (Launch)-DemoApplication」を選択すると `http://localhost:8080/` が起動する。
